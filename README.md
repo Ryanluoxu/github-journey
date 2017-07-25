@@ -6,7 +6,7 @@
 ## Part 1 - Write a simple document on github
 ### Step 1
 Go to any popular community, get rough idea of github.
-- Go to [ZhiHu] (www.zhihu.com)
+- Go to [知乎](http://www.zhihu.com)
 - Search 'github'
 - Spend a few hours to just go through different related topic
 
