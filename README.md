@@ -1,4 +1,4 @@
-# github-journey
+# Github-Journey
 
 - I will share my github journey here for anyone who just starts his/her github.
 - Please advice me if you got any suggestion
