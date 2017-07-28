@@ -26,4 +26,30 @@ Go to any popular community, get rough idea of github.
 - Ask him to join 'Interview Questions' using `fork`. Add something and `pull request`. 
 - `merge pull request`, so the change made by `willsanity` is updated to the `master`.
 
+## Part 2 - Upload a project from Eclipse to Github
+From: [Answers of Jokab on SO](https://stackoverflow.com/questions/17552457/how-do-i-upload-eclipse-projects-to-github)
+1. Download `git` from [http://git-scm.com/](http://git-scm.com/)
+
+2. Create `optimumDemo` repo on github.
+
+3. On machine, `run` - `cmd`, navigate to the project folder: 
+> `cd C:\Batch3\demo`
+
+4. Initiate a new git repo in the folder: (No result there)
+> `git int` 
+
+5. Register the new repo with a remote which is `optimumDemo` repo on github
+> `git remote add origin https://github.com/Ryanluoxu/optimumDemo`
+
+6. Add all files to my local commit:
+> `git add .`
+
+7. Make an initial commit:
+> `git commit -a -m "Initial commit"`
+
+8. Push
+> `git push -u origin --all`
+
+9. Small window come out. Enter username and password. Done
+
 // to be continue
