@@ -36,7 +36,7 @@ From: [Answers of Jokab on SO](https://stackoverflow.com/questions/17552457/how-
 > `cd C:\Batch3\demo`
 
 4. Initiate a new git repo in the folder: (No result there)
-> `git int` 
+> `git init` 
 
 5. Register the new repo with a remote which is `optimumDemo` repo on github
 > `git remote add origin https://github.com/Ryanluoxu/optimumDemo`
