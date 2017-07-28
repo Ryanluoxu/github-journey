@@ -33,7 +33,7 @@ From: [Answers of Jokab on SO](https://stackoverflow.com/questions/17552457/how-
 2. Create `optimumDemo` repo on github.
 
 3. On machine, `run` - `cmd`, navigate to the project folder: 
->> cd C:\Batch3\demo
+`cd C:\Batch3\demo`
 
 4. Initiate a new git repo in the folder: (No result there)
 > `git int` 
