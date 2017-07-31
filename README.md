@@ -75,5 +75,7 @@ In Eclipse,
 
 Possible error:
 - `[rejected - non-fast-forward]` [Solution](https://help.github.com/articles/dealing-with-non-fast-forward-errors/)
+  
+- `[rejected - fetch first]` [Solution](https://stackoverflow.com/questions/28429819/rejected-master-master-fetch-first)
 
 // to be continue
